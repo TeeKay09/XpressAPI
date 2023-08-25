@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(233, 206, 87);
+  }
+
+.clac{
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 22em;
+    border-radius: 0.25em;
+    display: inline-block;
+    padding: 0.5em;
+    background-color: rgb(228, 138, 165);
+
+}
+
+  .wordgame {
+    background-color: rgb(228, 138, 165);
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 35em;
+    border-radius: 0.25em;
+    display: inline-block;
+    padding: 0.5em
+    
+  }
+  
+   
+  
+
+  .phonebill {
+  
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 22em;
+    border-radius: 0.25em;
+    display: inline-block;
+    padding: 0.5em;
+    background-color: rgb(228, 138, 165);
+}
+
+button {
+  background-color: rgb(240, 233, 233);
+  padding: 2px 4px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.button {
+  background-color: grey;
+  padding: 2px 4px;
+  text-align: center;
+  border-radius: 8px;
+}
